@@ -1,2 +1,2 @@
 # OMA-XYZ-Review
-Review of the OMA XYZ Enabler
+Area for the OMA XYZ Enabler reviews
