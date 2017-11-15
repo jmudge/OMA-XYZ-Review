@@ -248,7 +248,10 @@ This specification defines the transport bindings for the LwM2M messaging protoc
 -   CoAP over SMS 
 -   CoAP over DTLS over SMS 
 
-![alt text](images/protocol_stack.svg "Figure 1: The Protocol Stack of the LwM2M Enabler") 
+![alt text](images/protocol_stack.svg "Figure 1: The Protocol Stack of the LwM2M Enabler")
+
+![alt text](images/Figure_2_The_protocol_stack_of_the_LwM2M_Enabler.svg "Figure 1: The Protocol Stack of the LwM2M Enabler")
+
 ```
 Figure 1: The Protocol Stack of the LwM2M Enabler
 ```
