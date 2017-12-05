@@ -1,22 +1,24 @@
-<table border="0" rules="none" cellspacing="0" cellpadding="0" width="600">
+<table id="FrontPageTable" border="0" rules="none" cellspacing="0" cellpadding="0" width="600">
 <tr>
-<td><img src="images/image1.jpeg" alt="Description: oma" width="192" height="60" /></td>
+ <td class="borderless">
+  <img src="images/OMA-129_Lightweight_13B55E4.svg" alt="Description: OMA LwM2M Logo" width="192" height="60">
+ </td>
 </tr>
 
 <tr>
-<td align="right"><font size="6"><b>Lightweight Machine to Machine Technical Specification: Transport Bindings</b></font></td>
+<td class="borderless" align="right"><font size="6"><b>Lightweight Machine to Machine Technical Specification: Transport Bindings</b></font></td>
 </tr>
 
 <tr>
-<td align="right"><font size="5">Draft Version 1.1 – 15 Sep 2017</font></td>
+<td class="borderless" align="right"><font size="5">Draft Version 1.1 – 15 Sep 2017</font></td>
 </tr>
 
 <tr>
- <td align="right"><font size="5"><b>Open Mobile Alliance</b></font></td>
+ <td class="borderless" align="right"><font size="5"><b>Open Mobile Alliance</b></font></td>
 </tr>
 
 <tr>
-<td align="right"><font size="5">OMA-TS-LightweightM2M-V1_1-Transport-20170915-D</font></td>
+<td class="borderless" align="right"><font size="5">OMA-TS-LightweightM2M-V1_1-Transport-20170915-D</font></td>
 </tr>
 
 </table>
